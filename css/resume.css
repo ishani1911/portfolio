@@ -12,7 +12,8 @@ body {
 
 #rwlink{
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  color: #D2B4DE;
+  color: #1d17cf;
+  padding-bottom: 10px;
 }
 
 @media (min-width: 992px) {
